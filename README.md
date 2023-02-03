@@ -8,6 +8,7 @@
 <img src="/Simulator Screen Shot - iPhone 12 - 2023-02-01 at 00.25.41.png" width="250" />
 <img src="/Simulator Screen Shot - iPhone 12 - 2023-02-01 at 00.25.51.png" width="250" />
 <img src="/Simulator Screen Shot - iPhone 12 - 2023-02-01 at 00.26.00.png" width="250" />
+<img src="/KakaoTalk_Photo_2023-02-03-20-05-22-3.png" width="250" />
 </p>
 
 ## 2. 카테고리
