@@ -1,1 +1,1 @@
-# wooz-app-flutter
+# 프로젝트 팀 매칭 플랫폼 앱 - WOOZ
