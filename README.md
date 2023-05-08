@@ -1,5 +1,7 @@
 # 프로젝트 팀 매칭 플랫폼 앱 - WOOZ
 
+## Stack
+* Flutter, Node JS, MongoDB, Figma 
 
 ## 1. 메인보드
 * 진행 중인 프로젝트 탐색 및 게시
